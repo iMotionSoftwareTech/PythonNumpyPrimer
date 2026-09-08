@@ -1,7 +1,5 @@
 import numpy as np
 
-import numpy as np
-
 # ==========================================
 # 1. Basic 1-D Array (Inputs & Weights)
 # ==========================================
