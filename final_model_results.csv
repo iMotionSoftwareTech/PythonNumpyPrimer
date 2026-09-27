@@ -1,0 +1,2 @@
+activation,optimiser,neurons,cv_accuracy,test_loss,test_accuracy,test_precision,test_recall,test_f1,training_time_seconds
+tanh,adam,256,0.9786296296296296,0.05062779411673546,0.982200026512146,0.9823733499850148,0.9822,0.982192420265779,19.375207662582397
